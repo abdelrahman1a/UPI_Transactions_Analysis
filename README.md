@@ -49,15 +49,7 @@ The project is organized into the following categories:
      - **User Data**: Age group, gender, device type.
      - **Location Data**: City, currency.
 
-### 2. **Data Analysis**:
-   - Performed **exploratory data analysis (EDA)** to answer key business questions.
-   - Analyzed data by category:
-     - **Transaction Trends**: Evaluated transaction amounts and remaining balances by month.
-     - **User Demographics**: Segmented users based on age group, gender, and device type.
-     - **Payment Methods**: Investigated the most common payment methods and purposes.
-   - Created visualizations (e.g., line charts, column charts, tables) to present insights.
-
-### 3. **Reporting**:
+### 2. **Reporting**:
    - Compiled findings into a comprehensive **Power BI report**.
    - Provided actionable recommendations for optimizing payment processes and improving user experience.
 
