@@ -46,31 +46,24 @@ The project is organized into the following categories:
      - **User Data**: Age group, gender, device type.
      - **Location Data**: City, currency.
 
-### 2. **Reporting**:
+### 2. **Reporting**: 
    - Compiled findings into a comprehensive **Power BI report**.
    - Provided actionable recommendations for optimizing payment processes and improving user experience.
 
 ---
 
+
 ## Key Insights
 
-### TTransaction Trends Over Time
-Monthly Transaction Amounts:
+### Transaction Trends Over Time
+- **Monthly Transaction Amounts**:
+  - The highest transaction amount occurred in **May 2024** (1,707K).
+  - The lowest transaction amount occurred in **August 2024** (1,599K).
+- **Remaining Balance Trends**:
+  - The remaining balance showed a slight decline over the year, with the lowest balance in **December 2024** (8,222K).
+  - The balance remained relatively stable, with minor fluctuations month-to-month.
 
-The highest transaction amount occurred in June 2024 (8,536K).
-
-The lowest transaction amount occurred in December 2024 (8,222K).
-
-Remaining Balance Trends:
-
-The remaining balance showed a slight decline over the year, with the lowest balance in December 2024 (8,222K).
-
-The balance remained relatively stable, with minor fluctuations month-to-month.
-- **Gender Distribution**: Transactions were evenly distributed between genders.
-- **Device Type**: Mobile devices were the most commonly used for UPI transactions.
-
-### Currency:
-
-The majority of transactions were conducted in INR (Indian Rupee).
-
-Other currencies like EUR, USD, and GBP were also used, but to a lesser extent.
+### Currency
+- The majority of transactions were conducted in **INR (Indian Rupee)**.
+- Other currencies like **EUR**, **USD**, and **GBP** were also used, but to a lesser extent.
+.
