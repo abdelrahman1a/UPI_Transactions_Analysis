@@ -13,21 +13,18 @@ The analysis includes:
 
 ## Key Questions Answered
 
-### 1️⃣ **What are the transaction trends over time?**
-- Analyzed transaction amounts and remaining balances by month (January to December 2024).
-- Identified peak transaction periods and trends in user spending behavior.
+### 1️⃣ Transaction Trends Over Time
+Transaction amounts fluctuated between 1.59M to 1.70M per month.
+Highest transactions occurred in May (1.70M) and February (1.69M).
+Lowest transactions occurred in August (1.59M) and July (1.60M).
+Balance remained stable across months, fluctuating around 8.2M to 8.5M.
 
 ### 2️⃣ **Who are the users of UPI transactions?**
-- Conducted demographic analysis to understand user profiles (age group, gender, device type).
+- Conducted demographic analysis [Filters] to understand user profiles (age group, gender, device type).
 - Segmented users based on transaction behavior and location.
 
-### 3️⃣ **What are the most common payment methods and purposes?**
-- Evaluated payment methods (e.g., UPI, cards) and transaction purposes (e.g., shopping, bills).
-- Identified the most frequently used payment methods and purposes.
-
-### 4️⃣ **How does the remaining balance trend over time?**
+### 3️⃣  **How does the remaining balance trend over time?**
 - Analyzed remaining balance trends by month and city.
-- Identified patterns in user savings and spending behavior.
 
 ---
 
@@ -57,19 +54,23 @@ The project is organized into the following categories:
 
 ## Key Insights
 
-### Transaction Trends:
-- **Peak Transaction Period**: The highest transaction amounts were observed in **June 2024** (8,536K).
-- **Remaining Balance**: The remaining balance showed a slight decline over the year, with the lowest balance in **December 2024** (8,222K).
+### TTransaction Trends Over Time
+Monthly Transaction Amounts:
 
-### User Demographics:
+The highest transaction amount occurred in June 2024 (8,536K).
+
+The lowest transaction amount occurred in December 2024 (8,222K).
+
+Remaining Balance Trends:
+
+The remaining balance showed a slight decline over the year, with the lowest balance in December 2024 (8,222K).
+
+The balance remained relatively stable, with minor fluctuations month-to-month.
 - **Gender Distribution**: Transactions were evenly distributed between genders.
 - **Device Type**: Mobile devices were the most commonly used for UPI transactions.
 
-### Payment Methods and Purposes:
-- **Most Common Payment Method**: UPI was the most frequently used payment method.
-- **Transaction Purpose**: The majority of transactions were for **shopping** and **bill payments**.
+### Currency:
 
-### Location-Based Insights:
-- **Top Cities**: Bangalore, Delhi, Hyderabad, and Mumbai had the highest transaction volumes.
-- **Currency**: INR (Indian Rupee) was the most commonly used currency.
+The majority of transactions were conducted in INR (Indian Rupee).
 
+Other currencies like EUR, USD, and GBP were also used, but to a lesser extent.
